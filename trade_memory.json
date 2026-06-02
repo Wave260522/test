@@ -1,0 +1,13 @@
+[
+    {
+        "time": "2026-05-29 23:15:41.783638",
+        "symbol": "BTC",
+        "side": "LONG",
+        "entry": 70000,
+        "exit": 71000,
+        "pnl": 1.4,
+        "market_state": "TREND",
+        "strategy": "WT_BOS",
+        "score": 82
+    }
+]

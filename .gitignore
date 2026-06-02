@@ -1,0 +1,31 @@
+# Secrets
+.
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# Data
+data/
+
+# Logs
+*.log
+
+# Local databases
+*.db
+*.sqlite
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual Environment
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/"old.env" 
